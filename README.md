@@ -10,7 +10,7 @@ The block diagram is made in LabView. It is the circuit of the project.
 
 The simulation of this project is given in the URL : 
 
-![Screenshot (18)](https://user-images.githubusercontent.com/75902819/204616984-d6c3c5b1-be3a-49c3-b42b-b3c9765ee47b.png)
+![Screenshot (18)](https://user-images.githubusercontent.com/75902819/204617211-4f8cd2fa-eef2-4016-a8fa-ac7570ea679d.png)
 
 ![Screenshot (19)](https://user-images.githubusercontent.com/75902819/204617015-2bc9460b-b7b8-4ecf-90d3-75efa74ee29f.png)
 
