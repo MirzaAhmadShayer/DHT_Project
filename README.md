@@ -8,7 +8,7 @@ The GUI is made using LabView and the virtual serial port along with the COMPOER
 
 The block diagram is made in LabView. It is the circuit of the project.
 
-The simulation of this project is given in the URL : 
+The simulation of this project is given in the URL : https://youtu.be/Gsmn5DF2q6c
 
 ![Screenshot (18)](https://user-images.githubusercontent.com/75902819/204617211-4f8cd2fa-eef2-4016-a8fa-ac7570ea679d.png)
 
