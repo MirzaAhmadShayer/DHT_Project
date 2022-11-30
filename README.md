@@ -4,7 +4,7 @@ A team Lab project made using Proteus and Arduino softwares.
 
 The arduino board is connected to the DHT 11 sensor and is also connected to the virtual terminal for data to be displayed. It is also connected via a physical connection using COMPORT.
 
-The GUI is made using LabView and the virtual serial port along with the COMPOERT are connected to each-other. In the GUI we can see the temperature and humidity.
+The GUI is made using LabView and the virtual serial port along with the COMPORT are connected to each-other. In the GUI we can see the temperature and humidity.
 
 The block diagram is made in LabView. It is the circuit of the project.
 
